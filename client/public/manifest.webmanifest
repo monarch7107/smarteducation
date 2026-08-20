@@ -1,0 +1,11 @@
+{
+  "name": "EduBridge AI",
+  "short_name": "EduBridge",
+  "description": "Personalised learning for every learner in India.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffaf3",
+  "theme_color": "#ff674d",
+  "lang": "en",
+  "icons": []
+}
