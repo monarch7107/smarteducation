@@ -1,0 +1,2 @@
+# smarteducation
+Website for students 
